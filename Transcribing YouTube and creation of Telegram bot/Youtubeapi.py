@@ -8,8 +8,8 @@ import telebot
 from datetime import datetime 
 
 
-Key = 'AIzaSyDkZ88vmUxTgV-G9lF2cAPScazuJ2hnbXA'
-TOKEN = '1927446263:AAFT-vN5keyQSa9goCsQC7QcIf6KzPCmEnE'
+Key = 'replace your bot key here'
+TOKEN = 'replace your bot token here'
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 def get_stats(url):
