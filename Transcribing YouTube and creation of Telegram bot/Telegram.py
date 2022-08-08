@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as soup
 import re
 
 
-TOKEN = '1927446263:AAFT-vN5keyQSa9goCsQC7QcIf6KzPCmEnE'
+TOKEN = "replace your token no here"
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 driver = webdriver.Chrome(executable_path="chromedriver.exe")
