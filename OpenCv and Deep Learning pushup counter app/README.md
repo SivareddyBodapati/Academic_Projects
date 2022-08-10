@@ -24,4 +24,5 @@ The project main goal is to build and deploy a fitness tracker app that can aslo
 ![image](https://user-images.githubusercontent.com/86652676/184019761-10c8d505-9ef5-42b9-908e-ce41767f9867.png)
 
 ## Building a Deep Learning Classifier
-Cnn classifier from PyTorch library is trained with the preprocessed data.
+Cnn classifier from PyTorch library is trained with the preprocessed data. **Pose__classification2.ipynb** is used to define, train and evaluating the model.
+Best model 
