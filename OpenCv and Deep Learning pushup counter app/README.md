@@ -13,7 +13,7 @@ Output:
 # Data Generation
 1. Image extracted from online Youtube videos are used as the dataset
 2. 500 Images of each PushUp and Situp are extracted
-frametaker.py used for the Image Extraction
+# frametaker.py used for the Image Extraction
 ![image](https://user-images.githubusercontent.com/86652676/184018461-3312770d-4e69-43ee-ae67-481209137366.png)
 
 3. The extracted images are converted to skeleton images using OpenCV MediaPipe
