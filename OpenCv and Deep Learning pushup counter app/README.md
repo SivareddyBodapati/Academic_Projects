@@ -19,5 +19,6 @@ The project main goal is to build and deploy a fitness tracker app that can aslo
 
 3. The extracted images are converted to skeleton images using OpenCV MediaPipe.
 **PoseModule_final.py** used to convert to skeleton images.
+
 ![image](https://user-images.githubusercontent.com/86652676/184019730-bc856162-aba5-4bb4-bc11-674106a1f638.png)
 ![image](https://user-images.githubusercontent.com/86652676/184019761-10c8d505-9ef5-42b9-908e-ce41767f9867.png)
