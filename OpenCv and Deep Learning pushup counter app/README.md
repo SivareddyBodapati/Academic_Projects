@@ -25,4 +25,4 @@ The project main goal is to build and deploy a fitness tracker app that can aslo
 
 ## Building a Deep Learning Classifier
 1. Cnn classifier from PyTorch library is trained with the preprocessed data. **Pose__classification2.ipynb** is used to define, train and evaluating the model.
-2. Best model **Best_Pose_Model_7.pth** is saved and used for postprocessing and later on passed to MediaPipe.
+2. Best model **Best_Pose_Model_7.pth** is saved and used for postprocessing and later on passed to MediaPipe. **Pose_classifier.py** is used for predictions and classifing the input image.
