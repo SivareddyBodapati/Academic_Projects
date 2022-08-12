@@ -1,6 +1,6 @@
 # OpenCv and Deep Learning Fitness Tracker app
 ## Idealistic Goal:
-The project main goal is to build and deploy a fitness tracker app that can aslo be used remote as a zoom filter.
+The project's primary goal is to build and deploy a fitness tracker app that can also be used remote as a zoom filter.
 ## Proof of Concept:
 ### Background Work :
 1. Generating the Data.
