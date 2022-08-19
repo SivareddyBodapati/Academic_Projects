@@ -1,1 +1,2 @@
 # YouTube-TranScriber
+## Idealistic Goal:
